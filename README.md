@@ -1,4 +1,11 @@
-just a casual ICT student in Slovakia
+building, breaking, building again, casual student
+
+<img src="assets/fei-logo.png" height="59"/>
+
+![CS](https://img.shields.io/badge/Computer_Science-003DA5?style=for-the-badge)![ICT](https://img.shields.io/badge/Information_and_Communication_Technologies-0057A8?style=for-the-badge)
+
+
+
 
 ![Status](https://img.shields.io/badge/currently-online-brightgreen?style=flat-square)
 ![Gaming](https://img.shields.io/badge/playing-nothing_rn-6f42c1?style=flat-square&logo=discord&logoColor=white)

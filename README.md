@@ -1,5 +1,3 @@
-building, breaking, building again, casual student
-
 <img src="assets/fei-logo.png" height="59"/>
 
 ![CS](https://img.shields.io/badge/Computer_Science-003DA5?style=for-the-badge)![ICT](https://img.shields.io/badge/Information_and_Communication_Technologies-0057A8?style=for-the-badge)

@@ -1,39 +1,47 @@
-<img src="assets/fei-logo.png" height="59"/>
-
-![CS](https://img.shields.io/badge/Computer_Science-003DA5?style=for-the-badge)![ICT](https://img.shields.io/badge/Information_and_Communication_Technologies-0057A8?style=for-the-badge)
-
-
-
+<img src="assets/fei-logo.png" height="59"/> ![CS](https://img.shields.io/badge/Computer_Science-003DA5?style=for-the-badge)![ICT](https://img.shields.io/badge/Information_and_Communication_Technologies-0057A8?style=for-the-badge)
 
 ![Status](https://img.shields.io/badge/currently-online-brightgreen?style=flat-square)
 ![Gaming](https://img.shields.io/badge/playing-nothing_rn-6f42c1?style=flat-square&logo=discord&logoColor=white)
 ![Coding](https://img.shields.io/badge/coding-nothing_rn-007ACC?style=flat-square&logo=visualstudio&logoColor=white)
 ![Music](https://img.shields.io/badge/listening_to-nothing_rn-FF4E6B?style=flat-square&logo=applemusic&logoColor=white)
 
-## 💻 langs & tools
+## langs
 
-[![Languages](https://skillicons.dev/icons?i=c,python,java,js,kotlin,mysql)](https://skillicons.dev)
+![C](https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c1.svg)
+![Python](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg)
+![Java](https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg)
+![JavaScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg)
+![Kotlin](https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin1.svg)
+![Markdown](https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown1.svg)
 
-[![Tools](https://skillicons.dev/icons?i=spring,git,vscode,neovim,androidstudio,bash,latex,obsidian,gcp)](https://skillicons.dev)
+## tooooools & technologies
 
+![Git](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg)
+![VS Code](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg)
+![Neovim](https://ziadoua.github.io/m3-Markdown-Badges/badges/Neovim/neovim1.svg)
+![Android Studio](https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio1.svg)
+![Shell](https://ziadoua.github.io/m3-Markdown-Badges/badges/Shell/shell1.svg)
+![Obsidian](https://ziadoua.github.io/m3-Markdown-Badges/badges/Obsidian/obsidian1.svg)
+![Notion](https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion1.svg)
 
-![Material Design](https://img.shields.io/badge/Material_Design-757575?style=for-the-badge&logo=materialdesign&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![MySQL](https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql1.svg)
+![Material Design](https://img.shields.io/badge/Material_Design-757575?style=for-the-badge&logo=materialdesign&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-## ⚙️ hardware
+[![Frameworks](https://skillicons.dev/icons?i=spring,latex,gcp)](https://skillicons.dev)
+
+---
+
+## devices
 
 ![Laptop](https://img.shields.io/badge/ASUS_TUF_F16-E65C00?style=for-the-badge&logo=asus&logoColor=white)
 ![CPU](https://img.shields.io/badge/Intel_i5--13450HX-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![GPU](https://img.shields.io/badge/NVIDIA_RTX_5060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-
-![Phone](https://img.shields.io/badge/Realme_Neo7-FFFFFF?style=for-the-badge&logo=android&logoColor=black)
-![Phone CPU](https://img.shields.io/badge/Dimensity_9300+-CC0000?style=for-the-badge&logo=mediatek&logoColor=white)
-
-## 🖥️ systems
-
 ![CachyOS](https://img.shields.io/badge/CachyOS-Arch_based-blue?style=for-the-badge&logo=archlinux&logoColor=white)
 ![KDE Plasma](https://img.shields.io/badge/KDE_Plasma_6-1D99F3?style=for-the-badge&logo=kde&logoColor=white)
 
+
+![Phone](https://img.shields.io/badge/Realme_Neo7-FFFFFF?style=for-the-badge&logo=android&logoColor=black)
+![Phone CPU](https://img.shields.io/badge/Dimensity_9300+-CC0000?style=for-the-badge&logo=mediatek&logoColor=white)
 ![Android](https://img.shields.io/badge/Android_16-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Realme UI](https://img.shields.io/badge/Realme_UI_7-2EA84A?style=for-the-badge&logo=android&logoColor=white)
-
-

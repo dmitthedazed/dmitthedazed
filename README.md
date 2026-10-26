@@ -44,5 +44,9 @@
 
 ![Phone](https://img.shields.io/badge/Realme_Neo7-FFFFFF?style=for-the-badge&logo=android&logoColor=black)
 ![Phone CPU](https://img.shields.io/badge/Dimensity_9300+-CC0000?style=for-the-badge&logo=mediatek&logoColor=white)
-![Android](https://img.shields.io/badge/Android_16-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Realme UI](https://img.shields.io/badge/Realme_UI_7-2EA84A?style=for-the-badge&logo=android&logoColor=white)
+![Android](https://img.shields.io/badge/Android_17-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![ColorOS](https://img.shields.io/badge/ColorOS_17-1BA784?style=for-the-badge&logo=oppo&logoColor=white)
+
+
+![Watch](https://img.shields.io/badge/Galaxy_Watch7-1428A0?style=for-the-badge&logo=samsung&logoColor=white)
+![Wear OS](https://img.shields.io/badge/Wear_OS_6-4285F4?style=for-the-badge&logo=wearos&logoColor=white)

@@ -36,6 +36,12 @@
 
 [![Frameworks](https://skillicons.dev/icons?i=spring,latex,gcp)](https://skillicons.dev)
 
+## ai & agents
+
+![Claude](assets/claude.svg)
+![MCP](assets/mcp.svg)
+![Hermes Agent](assets/hermes.svg)
+
 ---
 
 ## devices

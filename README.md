@@ -11,6 +11,7 @@
 ![JavaScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg)
 ![Java](https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg)
 ![C](https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c1.svg)
+![C++](https://ziadoua.github.io/m3-Markdown-Badges/badges/C%2B%2B/c%2B%2B1.svg)
 ![Shell](https://ziadoua.github.io/m3-Markdown-Badges/badges/Shell/shell1.svg)
 ![HTML](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg)
 ![CSS](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg)
@@ -19,6 +20,8 @@
 
 ![Jetpack Compose](assets/jetpackcompose.svg)
 ![Material Design](assets/materialdesign.svg)
+![Qt / QML](assets/qt.svg)
+![OpenCV](assets/opencv.svg)
 ![Svelte](https://ziadoua.github.io/m3-Markdown-Badges/badges/Svelte/svelte1.svg)
 ![Spring](assets/spring.svg)
 ![LaTeX](assets/latex.svg)
@@ -28,6 +31,9 @@
 ![Google Cloud](assets/googlecloud.svg)
 ![GitHub Actions](assets/githubactions.svg)
 ![MySQL](https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql1.svg)
+
+![Telegram Bots](assets/telegrambots.svg)
+![Browser Extensions](assets/extensions.svg)
 
 ## ai & agents
 

@@ -12,6 +12,10 @@
 ![Java](https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg)
 ![JavaScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg)
 ![Kotlin](https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin1.svg)
+![TypeScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg)
+![Svelte](https://ziadoua.github.io/m3-Markdown-Badges/badges/Svelte/svelte1.svg)
+![HTML](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg)
+![CSS](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg)
 ![Markdown](https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown1.svg)
 
 ## tooooools & technologies
@@ -25,6 +29,7 @@
 ![Notion](https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion1.svg)
 
 ![MySQL](https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql1.svg)
+![Docker](https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg)
 ![Material Design](https://img.shields.io/badge/Material_Design-757575?style=for-the-badge&logo=materialdesign&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 

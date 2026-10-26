@@ -56,7 +56,7 @@
 ## setup
 
 <p>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/setup-laptop-dark.svg"><img src="assets/setup-laptop-light.svg" width="270" alt="ASUS TUF F16 — i5-13450HX, RTX 5060, CachyOS, Hyprland, Quickshell"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/setup-phone-dark.svg"><img src="assets/setup-phone-light.svg" width="270" alt="Realme Neo7 — Dimensity 9300+, Android 17, ColorOS 17"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/setup-watch-dark.svg"><img src="assets/setup-watch-light.svg" width="270" alt="Galaxy Watch7 — Wear OS 6"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/setup-laptop-dark.svg"><img src="assets/setup-laptop-light.svg" width="220" alt="ASUS TUF F16 — i5-13450HX, RTX 5060, CachyOS, Hyprland, Quickshell"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/setup-phone-dark.svg"><img src="assets/setup-phone-light.svg" width="220" alt="Realme Neo7 — Dimensity 9300+, Android 17, ColorOS 17"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/setup-watch-dark.svg"><img src="assets/setup-watch-light.svg" width="220" alt="Galaxy Watch7 — Wear OS 6"></picture>
 </p>

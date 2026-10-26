@@ -38,7 +38,8 @@
 ![CPU](https://img.shields.io/badge/Intel_i5--13450HX-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![GPU](https://img.shields.io/badge/NVIDIA_RTX_5060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![CachyOS](https://img.shields.io/badge/CachyOS-Arch_based-blue?style=for-the-badge&logo=archlinux&logoColor=white)
-![KDE Plasma](https://img.shields.io/badge/KDE_Plasma_6-1D99F3?style=for-the-badge&logo=kde&logoColor=white)
+![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF?style=for-the-badge&logo=hyprland&logoColor=black)
+![Quickshell](https://img.shields.io/badge/Quickshell-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 
 
 ![Phone](https://img.shields.io/badge/Realme_Neo7-FFFFFF?style=for-the-badge&logo=android&logoColor=black)

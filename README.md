@@ -55,23 +55,8 @@
 
 ## setup
 
-**laptop**
-
-![Laptop](https://img.shields.io/badge/ASUS_TUF_F16-E65C00?style=for-the-badge&logo=asus&logoColor=white)
-![CPU](https://img.shields.io/badge/Intel_i5--13450HX-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![GPU](https://img.shields.io/badge/NVIDIA_RTX_5060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![CachyOS](https://img.shields.io/badge/CachyOS-Arch_based-blue?style=for-the-badge&logo=archlinux&logoColor=white)
-![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF?style=for-the-badge&logo=hyprland&logoColor=black)
-![Quickshell](https://img.shields.io/badge/Quickshell-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-
-**phone**
-
-![Phone](https://img.shields.io/badge/Realme_Neo7-FFFFFF?style=for-the-badge&logo=android&logoColor=black)
-![Phone CPU](https://img.shields.io/badge/Dimensity_9300+-CC0000?style=for-the-badge&logo=mediatek&logoColor=white)
-![Android](https://img.shields.io/badge/Android_17-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![ColorOS](https://img.shields.io/badge/ColorOS_17-1BA784?style=for-the-badge&logo=oppo&logoColor=white)
-
-**watch**
-
-![Watch](https://img.shields.io/badge/Galaxy_Watch7-1428A0?style=for-the-badge&logo=samsung&logoColor=white)
-![Wear OS](https://img.shields.io/badge/Wear_OS_6-4285F4?style=for-the-badge&logo=wearos&logoColor=white)
+<p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/setup-laptop-dark.svg"><img src="assets/setup-laptop-light.svg" width="270" alt="ASUS TUF F16 — i5-13450HX, RTX 5060, CachyOS, Hyprland, Quickshell"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/setup-phone-dark.svg"><img src="assets/setup-phone-light.svg" width="270" alt="Realme Neo7 — Dimensity 9300+, Android 17, ColorOS 17"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/setup-watch-dark.svg"><img src="assets/setup-watch-light.svg" width="270" alt="Galaxy Watch7 — Wear OS 6"></picture>
+</p>

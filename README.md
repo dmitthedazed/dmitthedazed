@@ -30,8 +30,9 @@
 
 ![MySQL](https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql1.svg)
 ![Docker](https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg)
-![Material Design](https://img.shields.io/badge/Material_Design-757575?style=for-the-badge&logo=materialdesign&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Cloudflare](https://ziadoua.github.io/m3-Markdown-Badges/badges/Cloudflare/cloudflare1.svg)
+![Material Design](assets/materialdesign.svg)
+![GitHub Actions](assets/githubactions.svg)
 
 [![Frameworks](https://skillicons.dev/icons?i=spring,latex,gcp)](https://skillicons.dev)
 

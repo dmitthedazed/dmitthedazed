@@ -1,4 +1,4 @@
-Android & Linux tinkerer. Native Material 3 apps, reverse engineering and AI agents.
+Android & Linux tinkerer. Native Material 3 apps, reverse engineering and AI agents. Certified microslop hater.
 
 ## langs
 

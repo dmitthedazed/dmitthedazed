@@ -1,7 +1,5 @@
 Android & Linux tinkerer. Native Material 3 apps, reverse engineering and AI agents.
 
-[![Telegram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram1.svg)](https://t.me/occaecat)
-
 ## langs
 
 ![Kotlin](https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin1.svg)
@@ -22,6 +20,7 @@ Android & Linux tinkerer. Native Material 3 apps, reverse engineering and AI age
 ![Docker](https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg)
 ![Cloudflare](https://ziadoua.github.io/m3-Markdown-Badges/badges/Cloudflare/cloudflare1.svg)
 ![GitHub Actions](assets/githubactions.svg)
+![Telegram Bots](assets/telegrambots.svg)
 
 ## ai & agents
 

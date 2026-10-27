@@ -1,11 +1,6 @@
 Android & Linux tinkerer. Native Material 3 apps, reverse engineering and AI agents.
 
-## projects
-
-- [**shimmer-tab**](https://github.com/dmitthedazed/shimmer-tab): new tab page for the Helium browser with flowing wallpapers and bangs
-- [**hush**](https://github.com/dmitthedazed/hush): liberate your headphones from vendor apps, no accounts or tracking
-- [**am-glass**](https://github.com/dmitthedazed/am-glass): iOS 26 style liquid glass for Apple Music on Android
-- [**SvitloYE**](https://github.com/dmitthedazed/SvitloYE): power outage schedules for the Zhytomyr region
+[![Telegram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram1.svg)](https://t.me/occaecat)
 
 ## langs
 
